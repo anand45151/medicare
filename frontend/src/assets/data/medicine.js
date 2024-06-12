@@ -1,0 +1,63 @@
+import medicineImg01 from "../images/paracetamol.jpeg";
+
+export const medicines = [
+  {
+    id: "01",
+    name: "Paracetamol",
+    description: "For fever and mild pain relief",
+    dosage: "500mg",
+    packSize: "30 tablets",
+    photo: medicineImg01,
+    manufacturer: "ABC Pharmaceuticals",
+    price: "₹100",
+  },
+  {
+    id: "02",
+    name: "Amoxicillin",
+    description: "For bacterial infections",
+    dosage: "250mg",
+    packSize: "20 capsules",
+    photo: medicineImg01,
+    manufacturer: "XYZ Pharmaceuticals",
+    price: "₹200",
+  },
+
+  {
+    id: "03",
+    name: "Loratadine",
+    description: "For allergy relief",
+    dosage: "10mg",
+    packSize: "24 tablets",
+    photo: medicineImg01,
+    manufacturer: "PQR Pharmaceuticals",
+    price: "₹150",
+  },
+  {
+    id: "03",
+    name: "Loratadine",
+    description: "For allergy relief",
+    dosage: "10mg",
+    packSize: "24 tablets",
+    photo: medicineImg01,
+    manufacturer: "PQR Pharmaceuticals",
+    price: "₹150",
+  },  {
+    id: "03",
+    name: "Loratadine",
+    description: "For allergy relief",
+    dosage: "10mg",
+    packSize: "24 tablets",
+    photo: medicineImg01,
+    manufacturer: "PQR Pharmaceuticals",
+    price: "₹150",
+  },  {
+    id: "03",
+    name: "Loratadine",
+    description: "For allergy relief",
+    dosage: "10mg",
+    packSize: "24 tablets",
+    photo: medicineImg01,
+    manufacturer: "PQR Pharmaceuticals",
+    price: "₹150",
+  },
+];
